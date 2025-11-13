@@ -20,21 +20,24 @@
 > neofetch
 ```
 
-```csharp
-sarthak@Sarthaks-Mac-mini.local
---------------------------------
-OS: macOS 15.6 (24G84) arm64
-Host: Mac16,10
-Kernel: 24.6.0
-Uptime: 20years
-Packages: 171 (brew)
-Shell: zsh 5.9
-CPU: Apple M4
-GPU: Apple M4
-Memory: 16384MiB
-Location: Earth
-Languages: Python, TypeScript, Next.js, Tailwind, LangGraph, MCP
-X (Twitter): @srthkdev
+```yml
+                 ,xNMM.                                   sarthak@Sarthaks-Mac-mini.local
+               .OMMMMo                                    --------------------------------
+               OMMM0,                                     OS: macOS 15.6 (24G84) arm64
+     .;loddo:' loolloddol;.                               Host: Mac16,10
+   cKMMMMMMMMMMNWMMMMMMMMMM0:                             Kernel: 24.6.0
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.                             Uptime: 20 years
+ XMMMMMMMMMMMMMMMMMMMMMMMX.                               Packages: 171 (brew)
+;MMMMMMMMMMMMMMMMMMMMMMMM:                                Shell: zsh 5.9
+:MMMMMMMMMMMMMMMMMMMMMMMM:                                CPU: Apple M4
+.MMMMMMMMMMMMMMMMMMMMMMMMX.                               GPU: Apple M4
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.                             Memory: 16384MiB
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk                            Location: Earth
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.                            Languages: Python, TypeScript, Next.js,
+    kMMMMMMMMMMMMMMMMMMMMMMd                                         Tailwind, LangGraph, MCP
+     ;KMMMMMMMWXXWMMMMMMMk.                               X (Twitter): @srthkdev
+       .cooc,.    .,coo:.                                
+
 ```
 
 <div align="center">
