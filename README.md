@@ -1,59 +1,29 @@
-<pre>
-⣤⠞⠁⠀⡀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⡻⣧⢋⡖⡭⢎⡵⣋⣿⣿⠱⣾⠁⣾⢻⣽⢣⡝⢦⣿⣿⠇⠀⠘⣯⣿⡇⠀⠀⠀⢻⣿⣿⣿⡌⢧⢣⡝⡼⣿⣿⣷⣹⣿⡼⣡⣟⠹⣯⣿⣿
-⠃⠀⠀⠀⠀⠀⣇⠀⡀⢀⠠⢀⠐⡀⣢⣾⠡⢈⢹⠿⣾⣷⡸⣱⢋⡾⣱⣿⣏⣳⠇⠀⢺⣹⣾⢣⠞⣹⣿⡿⠀⠀⠀⢻⣿⠁⠀⠀⠀⠀⣿⣿⣿⣟⢬⢳⡜⢲⣿⣿⣿⣿⣿⣧⢣⢿⡆⠹⣾⣿
-⠀⠀⠀⠀⠀⢀⠸⢂⠀⠄⠂⠄⢂⣼⡿⣿⡀⠀⠘⢂⢽⣷⡱⣣⢽⡳⢯⣿⢧⠏⠀⠀⠈⣼⣟⢧⢻⣿⣿⡇⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⢹⣞⢿⣿⣎⢳⡜⢣⣿⣷⢞⣿⣿⣷⢨⣿⢽⡄⢻⣿
-⠀⠀⠀⠀⠀⠀⢀⠈⡙⠓⡈⠰⣱⣯⢗⣿⡇⠀⠀⠈⢼⣿⢒⡧⣾⣻⣿⣿⠏⠀⠀⠀⠐⣼⣿⢮⣿⣿⣿⠂⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠸⣿⠈⣿⣷⣫⡜⢣⣿⣿⡞⣿⣿⣿⡦⣿⢾⢷⠘⣿
-⠀⠀⠀⠀⠀⠀⠠⢈⠐⡀⠐⣰⠃⢹⣞⣾⡇⠀⠀⠈⡐⣿⣹⢶⣿⣿⣽⠋⠀⠀⠀⠀⠐⣼⣿⣟⣻⣿⠾⠷⠿⠓⠛⠛⠛⠒⠒⠀⠀⠀⠀⣿⠁⢹⣿⣧⢏⡱⣿⣿⡹⣿⢯⣿⣿⣹⡄⢋⠄⢿
-⠀⠀⠀⠀⠀⢀⠀⠄⠂⠀⢠⠏⠀⠈⣿⣽⡇⠀⠀⠐⡀⣿⣽⢾⣿⣿⡿⠀⠀⠀⠀⠀⣀⣯⠞⢋⠡⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⣿⣿⣮⢱⣿⣿⢱⣻⣯⣿⣿⣏⣿⡄⠀⢸
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⢹⣿⡇⠀⠀⠀⡐⢼⣿⡿⠟⢹⡇⠀⠀⢀⡤⠞⠉⠄⠈⠀⠀⡀⢀⣀⣠⣀⣄⣠⣀⣀⡀⠀⠀⠀⠀⠈⠀⠀⣿⣿⣷⢸⣟⣯⢲⡍⣿⣿⣼⢻⣏⠷⠀⢸
-⠀⠀⠀⠀⠀⡀⠀⠄⢠⡞⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢺⠈⠀⠀⢼⠃⠀⠀⠋⠀⠠⠈⠄⡡⢌⢲⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣄⡀⠀⠀⠀⢀⣿⣿⣿⣸⣹⢇⡞⣼⣿⣼⡇⢎⢛⣖⡄⢸
-⠀⢀⠡⠐⠠⢀⢁⡴⠋⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠏⠀⠀⠀⠀⠐⠠⠉⠀⣰⣾⡿⢻⣿⢟⣻⣿⡏⠑⡛⣦⠀⠉⢻⡝⠂⠀⠀⢸⣿⣿⣿⡖⡽⣊⣼⣿⣟⣾⣑⣎⣍⠏⠀⣺
-⠀⠂⠄⡁⡦⠖⣉⣀⣤⣠⣤⣄⣀⣀⡀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠞⣱⡟⠀⣿⡜⠎⢶⣿⣿⠒⡤⣿⠀⠀⢀⠀⠀⠀⠀⣿⣟⣾⣽⢎⡳⣼⣿⢹⣯⡗⠈⠈⠀⠀⢀⣿
-⣈⣴⣾⡵⠞⠛⢋⠩⠠⢁⠉⠄⡉⠍⡉⠣⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⢻⡜⡈⢆⠹⣄⢻⣼⡟⠀⠀⣠⡶⠀⠀⢸⣿⡟⣼⠾⢣⣼⣿⡏⢾⡿⠁⠀⠀⠀⠀⣼⣿
-⡵⠛⡁⠀⠈⠀⠄⣂⣡⣤⣬⠴⢬⡐⠠⢁⠂⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠶⠤⣤⣬⠿⠋⠀⣠⢜⡼⠁⠀⢠⡿⣿⣿⢬⣛⣼⣿⣻⠃⣹⠇⠀⠀⠀⢀⣾⣿⢿
-⡇⠀⠀⢀⣢⣵⡿⢟⣿⣿⣿⣿⣷⢶⣥⡂⠠⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣤⣴⠾⠗⠉⠀⠀⠀⢰⣿⡛⢿⣞⣾⣿⢧⡿⠀⠘⠀⠀⢀⣴⣿⡟⡏⠈
-⡇⠠⣰⣾⡟⠁⠀⣾⡟⡜⣻⣿⣇⢈⢹⡍⠳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⢀⠞⢁⣷⡌⠻⣿⠗⢁⣴⡇⠀⠀⣠⣾⣿⡛⠀⠃⠀
-⣇⠐⣱⡟⠀⠀⠀⣿⠱⡈⠽⢿⢋⠤⣻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣏⣿⠆⠁⢴⡿⣿⡇⢀⣼⣿⣿⠯⠁⠀⠀⠀
-⠀⠀⠁⠀⠀⠀⠀⠘⢧⣀⠃⡘⢬⣾⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⢊⣡⢾⢻⣄⡙⠺⣄⣾⣿⢹⢏⠃⠀⠀⠀⠀
-⣇⠀⠀⠈⠳⣀⠀⠀⠀⠉⠉⠉⠉⣀⡤⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⡿⡌⡇⣿⣿⣫⠎⣽⠂⢘⠇⠀⠀⠀⠀⠀
-⣿⣆⠀⠀⠈⠓⠿⣶⣦⠤⡶⠖⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠟⣿⡷⣙⠶⣘⣿⠁⢰⠃⠀⠏⠀⠀⠀⠀⠀⠀
-⣜⢿⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣗⡩⣞⠸⣿⠁⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⡎⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⢧⡘⡹⡜⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣄⠀⢀⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠑⣿⣇⢺⡱⣃⢯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠹⣿⣷⡈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢂⣹⣿⣏⠶⣣⢝⣺⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢻⣿⣷⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠌⣴⣿⢿⣧⢯⡱⢎⡵⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠈⣿⣿⣿⣔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⡟⠃⠸⣿⢲⣙⠎⢾⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠈⢇⠾⠘⢢⡅⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⠶⠶⠚⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⣿⠁⠀⠀⣿⣇⡻⠜⣺⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣎⣞⡄⠐⣼⡃⣄⡀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⢋⢰⡏⠀⠀⠀⢸⣧⢻⠱⣎⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢿⡌⠀⠀⢰⣾⣿⣿⣶⣄⡐⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡟⠁⠀⢼⠇⠀⠀⠀⢸⣿⢣⡙⢶⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢸⡆⠀⠀⠞⠻⣿⣿⣿⣿⣿⣷⣤⣐⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠟⠋⠀⠀⠀⡿⠀⠀⠀⠀⢠⣿⡧⠙⢾⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠘⠀⠀⠀⠀⠘⡝⠫⠿⣿⣿⣿⡇⠪⢙⠳⢮⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⠝⠃⠀⠀⠀⠀⢈⠇⠀⠀⠀⠀⢘⣿⣏⢡⡟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠈⠻⣿⢀⠡⠂⡌⡐⡈⠍⠛⠶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⡛⠡⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠐⣿⣯⢲⣹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠠⠈⠁⠐⠠⠁⠊⠁⠂⠐⠠⠉⠛⠒⠲⠤⠤⠴⠶⠖⠚⠋⠑⠂⠀⠁⠀⠀⠀⠀⠀⠀⠀⠘⠇⠀⠀⠀⠀⠨⠿⠿⠢⠻⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-                       no matter where you go, everyone's connected.
-</pre>
+<p align="center">
+  <img src="assets/lain.png" alt="lain" width="720">
+</p>
 
 ## sarthak
 
-ai engineer, founding engineer at sidecar.
-
-i build the systems around models: the harness that decides what a model sees, which tools it can call, when it retries, and how we know the answer is right. most of my work is reranking, classification and extraction, the kind of problems that have to hold up in production, not just in a demo.
-
-**skills** · evals · rl environments and reward design · retrieval and reranking · classification · structured extraction · fine-tuning and distillation · agent harnesses · next.js, typescript and react for the ui
-
-## work
-
-**sidecar** · founding engineer · full-time
+currently founding ai engineer at **sidecar**
 
 - own the ai harness end to end: context, tools, retries, guardrails and evals
 - build the reranking, classification and extraction pipelines that run in production
 
+**skills** · evals · rl environments and reward design · retrieval and reranking · classification · structured extraction · fine-tuning and distillation · agent harnesses · next.js, typescript and react for the ui
+
 ## projects
 
-**[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)** · an mcp server that gives claude code, codex and opencode access to the databases you already use. postgres, mysql, sqlite, sql server, oracle, duckdb and clickhouse, saved dbeaver connections, read-only mode and connection allowlists. 88 stars, published on [npm](https://www.npmjs.com/package/omnisql-mcp).
+**[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)** · 88 stars<br>
+mcp server that gives claude code, codex and opencode access to your databases: postgres, mysql, sqlite, sql server, oracle, duckdb and clickhouse. reuses saved dbeaver connections, with read-only mode and connection allowlists.<br>
+`typescript` `mcp` `native db drivers`
 
-**[qddot](https://github.com/srthkdev/qddot)** · playwright for robot code. coding agents run their controllers in physics, check them against measurable specs and debug failures before they report a task as done.
+```sh
+npx -y omnisql-mcp@latest install
+```
+
+**[qddot](https://github.com/srthkdev/qddot)**<br>
+playwright for robot code. coding agents run their controllers in mujoco, check them against signal temporal logic specs and debug failures before calling a task done.<br>
+`python` `mujoco` `mcp` `duckdb`
 
 ## open source
 
@@ -62,9 +32,12 @@ i build the systems around models: the harness that decides what a model sees, w
 
 ## hackathons
 
-- **[mindmap-ai](https://github.com/srthkdev/mindmap-frontend)** · turns notes into a knowledge graph you can explore. won $2,000 at modus x hashnode
-- **[flux](https://github.com/srthkdev/flux)** · an ai-native form builder with memory and multi-step tool use. won $1,000 at the agno agents hackathon
-- **[synergysphere](https://github.com/srthkdev/SynergySphere)** · project management for small teams. 2nd runner-up at iitm x odoo
+- **[synergysphere](https://github.com/srthkdev/SynergySphere)** · project management suite with an ai agent. winner, iitm x odoo hackathon<br>
+  `next.js` `langgraph` `openai` `drizzle` `neon postgres`
+- **[mindmap-ai](https://github.com/srthkdev/mindmap-frontend)** · ai mind mapping app. winner, $2,000 at [modus x hashnode](https://townhall.hashnode.com/modushack-x-hashnode-winners)<br>
+  `next.js` `modus`
+- **[flux](https://github.com/srthkdev/flux)** · ai-native form builder with agents, multi-step tool use and memory. winner, $1,000 at the agno agents hackathon<br>
+  `next.js` `agno` `gemini` `postgres`
 
 ---
 
