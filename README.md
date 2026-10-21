@@ -1,70 +1,70 @@
 <pre>
-                  .
-               +@@%-
-               #@@@#  :
-             :+%@@@@+.+: =:
-           .:.+-#@@@@%@%*%*--...:..
-            . .  -%@@@@@@@@@@*+.    ..:     .
-         . :     +@@@@@@@@@@@@@@*=-+%@*  :.
-         -***==#@@@@@@@@@@@@@@@@@@@@@@+  ::
-          -##@@@@@@@@@@@@@@@@@@@@@@@@@=
- .:+=      =#@@@@@@@@@@@@@@@@@@@@@@@@+      .=-.       :
- =***-:=.   :+%@@@@@@@@@@@@@@@@@@@@%+:     -#@@@#+-:     =#
- -+++***.  -=--+#%@@@@@@@@@@@@@@@@*+##     +#%#*#@@@@%+=@@.
-  :++***: :#**=:-=+##@@@@@@@@@@%**##%#    .=-  .==*@@@@@@@:
-   :++:+- .**#*=-:::  -*%%@@%%%%%@%%@*    :++   -+*%@@@@@@@
-     : .:  +##%%%#*+-. -%@@@%%@@@@@@@=   -=- .*=+%%@@@@@@@@
-           :*#%%%@@@@@%+%@@##@@@@@@@@*  +%%+.:%##@@@@@@@@@@:
- ..         .-+#%@@@@@@@@@@@@@@@@@@@@%-@@@@##*@@@@@@@@@@@@@@+
-  ..       . .-:=+#@@@@@@@@@@@@@@@@@@@@@@@%=*@@@@@@@@@@@@@@%:
-    .:     ==:**+::=#@@@@@@@@@@@@@@@@@@@%#:  =*#*#@@@@@@@@%+ .
-     .      +*+*##*=+#@@@@@@@@@@@@@@@@%%#*=-  . =**%@@@%%#+: :=:
-      .     .+**##%%%*+=--:+##@@@@@@@@@%#+:::   :++****+-:.  .-:
-       .     :****#%%%#*=--=#%@@@@@@@@@@#+-:.     .  .:-:   ==*-
-              -**#*####*#####%@@@@@@@@@@%*+-    :    :+=++::==.
-                -=+++++++**##%%@@@@@@%%#**+:   =-  =*==++**: .
-                  ...    .:=++**#####*+=-:..      -++*+:.:-:=:
-      :            :===-::::::::-=+***++==-.      :+++**--=*+..
- .:-.                .:--:--===++=-=+**++=:.        ---=++==- .=
-.:-=                    .--::::-==+++=:.             :-...:-:::--
-....                       :::...-==++++=-:..          :--.  .---
-    ::-     ...                       ..               ..:-=--=::
-       .. ....            ....  .....:::-====+=        .==-=+++-.
-   :-+**+: ...              .:-+********++=--:.          :++++++.
- .=*###%%*==*=:=..=:            .:----:::..:--=-.       ::.:==+=:
-++*##%@@@@%#+*++- +=.                 :-=+*****=.        :-::-==.
-####%@@@@%%#+=-.   . ...:..               .-==+=--.        .--=-.
-######%%##+=:.    :-=*******+=-..              ......         ..
+⣤⠞⠁⠀⡀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⡻⣧⢋⡖⡭⢎⡵⣋⣿⣿⠱⣾⠁⣾⢻⣽⢣⡝⢦⣿⣿⠇⠀⠘⣯⣿⡇⠀⠀⠀⢻⣿⣿⣿⡌⢧⢣⡝⡼⣿⣿⣷⣹⣿⡼⣡⣟⠹⣯⣿⣿
+⠃⠀⠀⠀⠀⠀⣇⠀⡀⢀⠠⢀⠐⡀⣢⣾⠡⢈⢹⠿⣾⣷⡸⣱⢋⡾⣱⣿⣏⣳⠇⠀⢺⣹⣾⢣⠞⣹⣿⡿⠀⠀⠀⢻⣿⠁⠀⠀⠀⠀⣿⣿⣿⣟⢬⢳⡜⢲⣿⣿⣿⣿⣿⣧⢣⢿⡆⠹⣾⣿
+⠀⠀⠀⠀⠀⢀⠸⢂⠀⠄⠂⠄⢂⣼⡿⣿⡀⠀⠘⢂⢽⣷⡱⣣⢽⡳⢯⣿⢧⠏⠀⠀⠈⣼⣟⢧⢻⣿⣿⡇⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⢹⣞⢿⣿⣎⢳⡜⢣⣿⣷⢞⣿⣿⣷⢨⣿⢽⡄⢻⣿
+⠀⠀⠀⠀⠀⠀⢀⠈⡙⠓⡈⠰⣱⣯⢗⣿⡇⠀⠀⠈⢼⣿⢒⡧⣾⣻⣿⣿⠏⠀⠀⠀⠐⣼⣿⢮⣿⣿⣿⠂⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠸⣿⠈⣿⣷⣫⡜⢣⣿⣿⡞⣿⣿⣿⡦⣿⢾⢷⠘⣿
+⠀⠀⠀⠀⠀⠀⠠⢈⠐⡀⠐⣰⠃⢹⣞⣾⡇⠀⠀⠈⡐⣿⣹⢶⣿⣿⣽⠋⠀⠀⠀⠀⠐⣼⣿⣟⣻⣿⠾⠷⠿⠓⠛⠛⠛⠒⠒⠀⠀⠀⠀⣿⠁⢹⣿⣧⢏⡱⣿⣿⡹⣿⢯⣿⣿⣹⡄⢋⠄⢿
+⠀⠀⠀⠀⠀⢀⠀⠄⠂⠀⢠⠏⠀⠈⣿⣽⡇⠀⠀⠐⡀⣿⣽⢾⣿⣿⡿⠀⠀⠀⠀⠀⣀⣯⠞⢋⠡⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⣿⣿⣮⢱⣿⣿⢱⣻⣯⣿⣿⣏⣿⡄⠀⢸
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⢹⣿⡇⠀⠀⠀⡐⢼⣿⡿⠟⢹⡇⠀⠀⢀⡤⠞⠉⠄⠈⠀⠀⡀⢀⣀⣠⣀⣄⣠⣀⣀⡀⠀⠀⠀⠀⠈⠀⠀⣿⣿⣷⢸⣟⣯⢲⡍⣿⣿⣼⢻⣏⠷⠀⢸
+⠀⠀⠀⠀⠀⡀⠀⠄⢠⡞⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢺⠈⠀⠀⢼⠃⠀⠀⠋⠀⠠⠈⠄⡡⢌⢲⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣄⡀⠀⠀⠀⢀⣿⣿⣿⣸⣹⢇⡞⣼⣿⣼⡇⢎⢛⣖⡄⢸
+⠀⢀⠡⠐⠠⢀⢁⡴⠋⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠏⠀⠀⠀⠀⠐⠠⠉⠀⣰⣾⡿⢻⣿⢟⣻⣿⡏⠑⡛⣦⠀⠉⢻⡝⠂⠀⠀⢸⣿⣿⣿⡖⡽⣊⣼⣿⣟⣾⣑⣎⣍⠏⠀⣺
+⠀⠂⠄⡁⡦⠖⣉⣀⣤⣠⣤⣄⣀⣀⡀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠞⣱⡟⠀⣿⡜⠎⢶⣿⣿⠒⡤⣿⠀⠀⢀⠀⠀⠀⠀⣿⣟⣾⣽⢎⡳⣼⣿⢹⣯⡗⠈⠈⠀⠀⢀⣿
+⣈⣴⣾⡵⠞⠛⢋⠩⠠⢁⠉⠄⡉⠍⡉⠣⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⢻⡜⡈⢆⠹⣄⢻⣼⡟⠀⠀⣠⡶⠀⠀⢸⣿⡟⣼⠾⢣⣼⣿⡏⢾⡿⠁⠀⠀⠀⠀⣼⣿
+⡵⠛⡁⠀⠈⠀⠄⣂⣡⣤⣬⠴⢬⡐⠠⢁⠂⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠶⠤⣤⣬⠿⠋⠀⣠⢜⡼⠁⠀⢠⡿⣿⣿⢬⣛⣼⣿⣻⠃⣹⠇⠀⠀⠀⢀⣾⣿⢿
+⡇⠀⠀⢀⣢⣵⡿⢟⣿⣿⣿⣿⣷⢶⣥⡂⠠⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣤⣴⠾⠗⠉⠀⠀⠀⢰⣿⡛⢿⣞⣾⣿⢧⡿⠀⠘⠀⠀⢀⣴⣿⡟⡏⠈
+⡇⠠⣰⣾⡟⠁⠀⣾⡟⡜⣻⣿⣇⢈⢹⡍⠳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⢀⠞⢁⣷⡌⠻⣿⠗⢁⣴⡇⠀⠀⣠⣾⣿⡛⠀⠃⠀
+⣇⠐⣱⡟⠀⠀⠀⣿⠱⡈⠽⢿⢋⠤⣻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣏⣿⠆⠁⢴⡿⣿⡇⢀⣼⣿⣿⠯⠁⠀⠀⠀
+⠀⠀⠁⠀⠀⠀⠀⠘⢧⣀⠃⡘⢬⣾⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⢊⣡⢾⢻⣄⡙⠺⣄⣾⣿⢹⢏⠃⠀⠀⠀⠀
+⣇⠀⠀⠈⠳⣀⠀⠀⠀⠉⠉⠉⠉⣀⡤⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⡿⡌⡇⣿⣿⣫⠎⣽⠂⢘⠇⠀⠀⠀⠀⠀
+⣿⣆⠀⠀⠈⠓⠿⣶⣦⠤⡶⠖⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠟⣿⡷⣙⠶⣘⣿⠁⢰⠃⠀⠏⠀⠀⠀⠀⠀⠀
+⣜⢿⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣗⡩⣞⠸⣿⠁⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⡎⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⢧⡘⡹⡜⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣄⠀⢀⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠑⣿⣇⢺⡱⣃⢯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠹⣿⣷⡈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢂⣹⣿⣏⠶⣣⢝⣺⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢻⣿⣷⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠌⣴⣿⢿⣧⢯⡱⢎⡵⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⣿⣿⣿⣔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⡟⠃⠸⣿⢲⣙⠎⢾⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⢇⠾⠘⢢⡅⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⠶⠶⠚⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⣿⠁⠀⠀⣿⣇⡻⠜⣺⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣎⣞⡄⠐⣼⡃⣄⡀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⢋⢰⡏⠀⠀⠀⢸⣧⢻⠱⣎⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢿⡌⠀⠀⢰⣾⣿⣿⣶⣄⡐⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⡟⠁⠀⢼⠇⠀⠀⠀⢸⣿⢣⡙⢶⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⡆⠀⠀⠞⠻⣿⣿⣿⣿⣿⣷⣤⣐⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠟⠋⠀⠀⠀⡿⠀⠀⠀⠀⢠⣿⡧⠙⢾⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠘⠀⠀⠀⠀⠘⡝⠫⠿⣿⣿⣿⡇⠪⢙⠳⢮⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⠝⠃⠀⠀⠀⠀⢈⠇⠀⠀⠀⠀⢘⣿⣏⢡⡟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠈⠻⣿⢀⠡⠂⡌⡐⡈⠍⠛⠶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⡛⠡⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠐⣿⣯⢲⣹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠠⠈⠁⠐⠠⠁⠊⠁⠂⠐⠠⠉⠛⠒⠲⠤⠤⠴⠶⠖⠚⠋⠑⠂⠀⠁⠀⠀⠀⠀⠀⠀⠀⠘⠇⠀⠀⠀⠀⠨⠿⠿⠢⠻⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+                       no matter where you go, everyone's connected.
 </pre>
 
-### hey, i'm sarthak
+## sarthak
 
-ai engineer and founding engineer at sidecar. i build ai systems: the harness around the model, and the reranking, classification and extraction work that has to hold up in production. ai work is in python; ui is next.js, typescript and react.
+ai engineer, founding engineer at sidecar.
 
-**skills:** evals · rl environments and reward design · retrieval and reranking · classification · structured extraction · fine-tuning and distillation · agent harnesses
+i build the systems around models: the harness that decides what a model sees, which tools it can call, when it retries, and how we know the answer is right. most of my work is reranking, classification and extraction, the kind of problems that have to hold up in production, not just in a demo.
 
-### work
+**skills** · evals · rl environments and reward design · retrieval and reranking · classification · structured extraction · fine-tuning and distillation · agent harnesses · next.js, typescript and react for the ui
 
-**sidecar** · founding engineer, full-time
+## work
 
-- harness engineering: tools, context, retries, guardrails and evals around the model
-- reranking, classification and extraction systems running in production
+**sidecar** · founding engineer · full-time
 
-### projects
+- own the ai harness end to end: context, tools, retries, guardrails and evals
+- build the reranking, classification and extraction pipelines that run in production
 
-- **[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)**: an mcp server that gives claude code, codex and opencode access to the sql databases you already use. 7 engines, saved dbeaver connections, read-only and allowlist controls. 88 stars, on [npm](https://www.npmjs.com/package/omnisql-mcp).
-- **[qddot](https://github.com/srthkdev/qddot)**: playwright for robot code. lets coding agents run, check and debug controllers in physics before they claim a task is done.
+## projects
 
-### open source
+**[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)** · an mcp server that gives claude code, codex and opencode access to the databases you already use. postgres, mysql, sqlite, sql server, oracle, duckdb and clickhouse, saved dbeaver connections, read-only mode and connection allowlists. 88 stars, published on [npm](https://www.npmjs.com/package/omnisql-mcp).
 
-- a few fixes and features in prime intellect's [verifiers](https://github.com/PrimeIntellect-ai/verifiers) (rl environments + evals): [math rubric](https://github.com/PrimeIntellect-ai/verifiers/pull/263), [judge error handling](https://github.com/PrimeIntellect-ai/verifiers/pull/291), [eval logging](https://github.com/PrimeIntellect-ai/verifiers/pull/262), [more](https://github.com/PrimeIntellect-ai/verifiers/pulls?q=is%3Apr+author%3Asrthkdev+is%3Amerged)
-- a [legalbench environment](https://github.com/PrimeIntellect-ai/prime-environments/pull/180) for prime-environments, merged through their bounty program
+**[qddot](https://github.com/srthkdev/qddot)** · playwright for robot code. coding agents run their controllers in physics, check them against measurable specs and debug failures before they report a task as done.
 
-### hackathons
+## open source
 
-- **[mindmap-ai](https://github.com/srthkdev/mindmap-frontend)**: knowledge-graph learning tool. won $2,000 at modus x hashnode
-- **[flux](https://github.com/srthkdev/flux)**: ai-native form builder with memory and multi-step tool use. won $1,000 at the agno agents hackathon
-- **[synergysphere](https://github.com/srthkdev/SynergySphere)**: team project management app. 2nd runner-up at iitm x odoo
+- **[verifiers](https://github.com/PrimeIntellect-ai/verifiers)** · prime intellect's library for rl environments and evals. a [math rubric](https://github.com/PrimeIntellect-ai/verifiers/pull/263), [judge error handling](https://github.com/PrimeIntellect-ai/verifiers/pull/291), [eval logging](https://github.com/PrimeIntellect-ai/verifiers/pull/262) and [a few smaller fixes](https://github.com/PrimeIntellect-ai/verifiers/pulls?q=is%3Apr+author%3Asrthkdev+is%3Amerged)
+- **[prime-environments](https://github.com/PrimeIntellect-ai/prime-environments)** · a [legalbench environment](https://github.com/PrimeIntellect-ai/prime-environments/pull/180), merged through their bounty program
+
+## hackathons
+
+- **[mindmap-ai](https://github.com/srthkdev/mindmap-frontend)** · turns notes into a knowledge graph you can explore. won $2,000 at modus x hashnode
+- **[flux](https://github.com/srthkdev/flux)** · an ai-native form builder with memory and multi-step tool use. won $1,000 at the agno agents hackathon
+- **[synergysphere](https://github.com/srthkdev/SynergySphere)** · project management for small teams. 2nd runner-up at iitm x odoo
 
 ---
 
