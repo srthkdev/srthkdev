@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lain.png" alt="lain" width="720">
+  <img src="assets/lain.svg" alt="lain" width="100%">
 </p>
 
 ## sarthak
