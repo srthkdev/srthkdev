@@ -15,11 +15,8 @@ currently founding ai engineer at **sidecar**
 
 **[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)** · 88 stars<br>
 mcp server that gives claude code, codex and opencode access to your databases: postgres, mysql, sqlite, sql server, oracle, duckdb and clickhouse. reuses saved dbeaver connections, with read-only mode and connection allowlists.<br>
-`typescript` `mcp` `native db drivers`
-
-```sh
-npx -y omnisql-mcp@latest install
-```
+`typescript` `mcp` `native db drivers`<br>
+try it: `npx -y omnisql-mcp@latest install`
 
 **[qddot](https://github.com/srthkdev/qddot)**<br>
 playwright for robot code. coding agents run their controllers in mujoco, check them against signal temporal logic specs and debug failures before calling a task done.<br>
