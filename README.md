@@ -41,4 +41,4 @@ playwright for robot code. coding agents run their controllers in mujoco, check 
 
 ---
 
-[x](https://x.com/srthkdev) · [linkedin](https://linkedin.com/in/srthkdev) · [srthk.me](https://srthk.me) · [me@srthk.me](mailto:me@srthk.me)
+[x](https://x.com/srthkdev) · [linkedin](https://linkedin.com/in/srthkdev) · [srthkdev.com](https://srthkdev.com) · [me@srthkdev.com](mailto:me@srthkdev.com)
