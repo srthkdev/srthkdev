@@ -13,7 +13,7 @@ currently founding ai engineer at **sidecar**
 
 ## projects
 
-**[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)** · 88 stars<br>
+**[omnisql-mcp](https://github.com/srthkdev/omnisql-mcp)** · 90 stars<br>
 mcp server that gives claude code, codex and opencode access to your databases: postgres, mysql, sqlite, sql server, oracle, duckdb and clickhouse. reuses saved dbeaver connections, with read-only mode and connection allowlists.<br>
 `typescript` `mcp` `native db drivers`
 
